@@ -111,7 +111,7 @@ p.forEach(function(item){
       });
 
     });
-console.clear();
+console.log(b);
 
 
   }
